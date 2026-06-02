@@ -4,9 +4,6 @@ Aplicativo social mobile para registrar bebidas e compartilhar check-ins com
 amigos. O projeto reúne grupos privados, feed, ranking e competições em uma
 experiência voltada à interação entre pessoas próximas.
 
-> Este repositório é uma apresentação pública do projeto. O código-fonte e a
-> infraestrutura permanecem privados.
-
 ## Funcionalidades
 
 - criação de conta e autenticação;
