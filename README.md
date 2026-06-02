@@ -31,7 +31,13 @@ experiência voltada à interação entre pessoas próximas.
 
 ## Galeria
 
-As capturas de tela serão adicionadas conforme a evolução da interface.
+| Ranking do grupo | Registro de bebida |
+| --- | --- |
+| <img src="assets/screenshots/ranking.jpeg" width="320" alt="Tela de ranking do grupo"> | <img src="assets/screenshots/registrar-bebida.jpeg" width="320" alt="Tela para registrar uma bebida"> |
+
+| Histórico individual | Competições entre grupos |
+| --- | --- |
+| <img src="assets/screenshots/historico.jpeg" width="320" alt="Tela de histórico de bebidas"> | <img src="assets/screenshots/desafios.jpeg" width="320" alt="Tela de desafios entre grupos"> |
 
 ## Status
 
